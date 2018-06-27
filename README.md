@@ -98,6 +98,7 @@ author={Linlin Guo, Lei Wang, Jialin Liu, and Wei Zhou},
 booktitle={Proc. of IEEE MSN},
 year={2016}
 }
+
 @inproceedings{guolinlin_2,
 title={A Novel benchmark on human activity recognition using WiFi signals},
 author={Linlin Guo, Lei Wang, Jialin Liu, Wei Zhou, Bingxian Lu},
@@ -113,8 +114,14 @@ year={2018},
 doi:={10.1155/2018/6163475}
 }
 
+*****************************************************************
+Finished paper and unsubmited:
+[1] WiAR: An Public Dataset for WiFi-based Activity Recognition
+[2] CAR: CSI-based Coarse-grained Activity Recognition
+[3] A Survey on Approaches of Activity Recognition Using WiFi Signals
 
 
 
-
-
+******************************************************************
+IF you need to our help, please contact with us by email.
+Email:linlin.teresa.guo@gmail.com.
