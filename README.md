@@ -118,8 +118,11 @@ doi:={10.1155/2018/6163475}
 
 *****************************************************************
 Finished paper and unsubmited:
+
 [1] WiAR: An Public Dataset for WiFi-based Activity Recognition
+
 [2] CAR: CSI-based Coarse-grained Activity Recognition
+
 [3] A Survey on Approaches of Activity Recognition Using WiFi Signals
 
 
