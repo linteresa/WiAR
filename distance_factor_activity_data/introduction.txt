@@ -1,0 +1,8 @@
+这次实验数据采集目的：评估收发设备之间的距离对WiFi信号的影响（距离接收端的距离）
+实验地点：大厅，周围有玻璃墙壁，电梯等，环境是比较复杂。
+实验设备：发射端1根天线，接收端三根天线，采用monitor模式
+实验设置：考虑三种距离1米，2米，3米，每个动作采集10个样本，共计16个动作。我们提供了原始信号数据，也提供处理后分离出的三根天线的数据。
+例如：
+1_alldata：denotes 16 activity data collected in the distance between volunteer and receiver
+csi_ai_j: is the ith activity and the jth sample
+16_160_sample_A: deal with all data in terms of each activity sample(10) in antenna A
