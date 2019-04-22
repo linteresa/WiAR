@@ -1,4 +1,4 @@
-# HuAc
+# WiAR
 WiFi-based activity recognition dataset
 //////////////////////////////
 WiAR dataset : WiFi-based Activity Recognition dataset
