@@ -1,0 +1,27 @@
+﻿中文说明
+
+把三根天线的数据分离出来了：
+sample_antenna_A: 14400*200=30*480*200
+30表示30个子载波
+480表示16个动作，每个动作30个样本
+200表示每个样本的长度。
+
+强调一下每间隔30表示一个样本（如果想增加样本数，一个样本中30个子载波可以单独作为样本来研究）
+
+******************************************************
+English introduction
+We divide the sample into three groups according to three antennas.
+1)sample_antenna_A: 14400*200=30*480*200
+   30 denotes thirty subcarriers
+   480 represents 16 activities with each 30 samples
+   200 is the length of each sample(after preprocessing, to better as input of deep learning algorithms)
+
+2)sample_antenna_B: 14400*200=30*480*200
+   30 denotes thirty subcarriers
+   480 represents 16 activities with each 30 samples
+   200 is the length of each sample(after preprocessing, to better as input of deep learning algorithms)
+3)sample_antenna_C: 14400*200=30*480*200
+   30 denotes thirty subcarriers
+   480 represents 16 activities with each 30 samples
+   200 is the length of each sample(after preprocessing, to better as input of deep learning algorithms)
+
